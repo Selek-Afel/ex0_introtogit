@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: dark red
+Favorite food: stir fry
+Favorite musician/band: slipknot 
+Favorite movie: whiplash
+Requested grade in the course: 99
